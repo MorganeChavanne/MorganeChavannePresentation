@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="content-language content="fr">
+    <title>Ma Première page HTML</title>
+    <link href="/.css" 
+    rel="stylesheet">
+</head>
+<body>
+    <div>
+        <img class="fit-picture"
+        src="/.jpg"
+        alt="">
+        <h1> </h1>
+        <p> </p>
+    </div>
+    <script> </script>
+</body>
+</html>
